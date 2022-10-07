@@ -1,2 +1,2 @@
 # AsciiParser
-This tool is convert hex, octal and ascii to plain text
+This tool is to convert hex, octal and ascii to plain text
